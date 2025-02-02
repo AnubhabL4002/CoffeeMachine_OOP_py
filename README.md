@@ -1,7 +1,7 @@
 # 🌟 The Coffee Machine (OOPS)☕
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/10/13/10/51/coffee-6706172_1280.png" alt="Project Logo" width="150" style="border-radius: 15px; width: 300px;">
+  <img src="https://raw.githubusercontent.com/AnubhabL4002/CoffeeMachine_OOP_py/refs/heads/main/coffee_icon.webp" alt="Project Logo" width="150" style="border-radius: 15px; width: 300px;">
 </p>
 
 > It's a Coffee Machine which actually works! Have a try!!!
